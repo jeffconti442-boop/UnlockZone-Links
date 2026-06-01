@@ -6,6 +6,7 @@ Important & Useful Websites
 - https://www.youtube.com/
 - https://www.roblox.com/
 - https://mail.google.com/mail/
+- https://www.chess.com
 
 ## Game Websites
 - https://www.crazygames.com/
@@ -13,6 +14,7 @@ Important & Useful Websites
 - https://www.coolmathgames.com
 - https://itch.io/games/platform-web
 - https://neal.fun
+- https://www.addictinggames.com
 
 ## AI Websites
 - https://chatgpt.com/
